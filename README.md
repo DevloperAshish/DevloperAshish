@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevloperAshish
 - 👀 I’m currently working on ...something cool
-- 🌱 I’m currently learning ...JAva Script
+- 🌱 I’m currently learning ...Java Script
 - 💞️ I’m looking to collaborate on ...Java Script
 - 📫 How to reach me ...ashishgupta19@hotmail.com
 
