@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AshishGupta
+- 👋 Hi, I’m Ashish Gupta.
 - 👀 I’m currently working on ...something cool
 - 🌱 I’m currently learning ...Java Script
 - 💞️ I’m looking to collaborate on ...Java Script
